@@ -3,6 +3,8 @@ Just getting up to speed
 
 some local changes
 
+change to master
+
 which branch?
 
 local
